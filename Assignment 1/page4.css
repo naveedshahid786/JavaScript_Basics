@@ -1,0 +1,122 @@
+body {
+
+}	
+
+/*The Id Wrapper Starts Here*/
+#wrapper {
+	
+	background-color: #F1F2DB;
+	color: #006400;
+	border: 1px solid blue;
+	background-image: url(footer.png);
+	background-repeat: no-repeat;	
+	margin: 0 auto;	
+	background-position: bottom;
+	background-size: 996px;
+	float: left;
+}/*The Id Wrapper Ends Here*/
+
+/*The Class Content Starts Here*/
+.content {
+	width: 780px;	
+	margin-top: 10px;
+	margin-bottom: 100px;
+	padding-right: 15px;
+	padding-left: 15px; 
+	float: left;
+}/*The Class Content Ends Here*/
+
+/*The Id Header Starts Here*/
+#header {
+	background-color: #18A4ED;
+	background-image: url(header.gif);
+	height: 150px;
+	width: 996px;
+	background-repeat: no-repeat;
+}/*The Id Header Ends Here*/
+
+/*The Id Sidebar Starts Here*/
+#sidebar {
+	width: 176px;
+	border: 1px solid;
+	background-color: #18A4ED;
+	float: left;
+	}
+
+#sidebar a {
+	text-decoration: none;
+	display: block;
+	color: #fff;
+	padding: 0 15px;
+	line-height: 2.0;
+	border-bottom: 2px solid #06293b;
+	border-top: 2px solid #7acbf5;
+	
+}
+
+#sidebar a:hover{
+	background-color: #4f4532;
+	
+}
+
+#sidebar li {
+	list-style-type: none;
+	
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+}/*The Id Sidebar Ends Here*/
+
+/*The Id Footer Starts Here*/
+#footer {
+	text-align: left;	
+	color: #F1F2DB;
+	background-color: #18A4ED;
+	position: relative;
+	float: left;
+	width: 996px;
+	background-position: bottom;
+}
+
+.fltrt {
+	float: right;
+	margin-left: 10px;
+}
+
+.fltlft {
+	float: left;
+	margin-right: 10px;
+}/*The Id Footer Ends Here*/
+
+h1,h2,h3 {
+	
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	color: black;
+
+}	
+
+p {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-right: 15px;
+    padding-left: 15px;
+
+}
+
+.p1 {
+	padding-top: 50px;
+	
+}
+
+th {
+	color: #000080;
+}
+
+tr {
+	color: #6B8E23;
+}
