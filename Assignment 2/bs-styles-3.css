@@ -1,0 +1,66 @@
+﻿body{
+	background-color: rgb(217,214,222);
+	font: normal 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+	font-weight: normal;
+	font-family: 'Great Vibes', cursive;
+}
+
+.jumbotron{
+	background-image: url('../2017_examples/images/header_oulu_2000.jpg');
+}
+
+.navbar-default{
+	background-color: rgb(207,204,212);
+	border-color: #b5a7ae;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #555;
+    background-color: rgb(197,194,202);
+}
+
+.top-15{
+	margin-top: 15px;
+}
+
+.top-30{
+	margin-top: 30px;
+}
+
+
+.footer{
+	 background-color: rgb(197,194,202);
+	 height: 150px;
+}
+
+.footer p{
+	margin-top: 40px;
+	font-family: 'Great Vibes', cursive;
+	/*scale the font 150% of the original size*/
+	font-size: 1.5em;
+}
+
+.thumbnail{
+	background-color: transparent;
+	border-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
